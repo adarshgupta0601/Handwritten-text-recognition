@@ -16,6 +16,7 @@
 
 ![Image2](https://machinelearningmastery.com/wp-content/uplo…-of-a-Subset-of-Images-from-the-MNIST-Dataset.png)
 
+
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 : 
 
 •	Tools and Algorithm used: Python, Numpy, Pandas, Matplotlib, sklearn, kNN, SVM, Logistic Regression, GridSearchCV
