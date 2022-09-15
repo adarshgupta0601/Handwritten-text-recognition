@@ -14,7 +14,6 @@
   
 ![Image1](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
-![Image2](https://machinelearningmastery.com/wp-content/uplo…-of-a-Subset-of-Images-from-the-MNIST-Dataset.png)
 
 
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 : 
