@@ -22,7 +22,6 @@
 
 •	IDE : Google Colab
 
-[Explanation link to youtube](https://lnkd.in/gNmF3yd)
 
 ## Results:
 
